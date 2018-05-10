@@ -4,7 +4,7 @@ Make copies of or rename `.env.example` and `config.example.js` to `.env` and `c
 
 _Be sure to make a backup of your user data. This code shouldn't do anything other than **add** tags, but I'm not going to guarantee it won't mess up your information._
 
-Do a dry run with `npm run dryrun`
+Do a dry run with `npm run dry`
 
 Clear your cache with `npm run clear`
 
